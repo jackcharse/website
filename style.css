@@ -1,0 +1,53 @@
+body{
+    background-color: purple;
+}
+h2{
+    font-size: 50px;
+    color: blue;
+    font-family: Georgia;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 3px;
+    padding: 20px;
+    margin: 70px;
+}
+h3{
+    font-size: 50px;
+    color: blue;
+    font-family: Georgia;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 3px;
+    padding: 20px;
+    margin: 70px;
+}
+h4{
+    font-size: 50px;
+    color: blue;
+    font-family: Georgia;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 3px;
+    padding: 20px;
+    margin: 70px;
+}
+h5{
+    font-size: 50px;
+    color: blue;
+    font-family: Georgia;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 3px;
+    padding: 20px;
+    margin: 70px;
+}
+h6{
+    font-size: 50px;
+    color: blue;
+    font-family: Georgia;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 3px;
+    padding: 20px;
+    margin: 70px;
+}
